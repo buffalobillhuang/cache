@@ -1,45 +1,19 @@
+<p><img src="img/winter.jpeg" height="168"></p>
 
-## Welcome to GitHub Pages
+<UL>
+  <LI><a href="docs/chatGPT.pptx" target=_blank>ChatGPT talk in Feb 2023 </a></LI>
+  <LI><a href="docs/hardtalk.pptx" target=_blank>GPU "hard" talk in May 2024 </a></LI>
+</UL>  
+<!--
+<br><a href="cv.docx">a copy of my cv is here</a>
 
-You can use the [editor on GitHub](https://github.com/buffalobillhuang/bill_docs/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<p><img src="img/piboard.jpg" height="200">
+<img src="img/pibox.jpg" height="200">
+<img src="img/raspbot.jpg" height="200">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<hr>
+<br><img src="img/spacex.jpg" height="200">
 
-
-*** 
-this maps to cache on github ~ 1. my webpage; 2. largely code on how to automate raspbot
-~~
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/buffalobillhuang/bill_docs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-Cool
->>>>>>> d9b4aca6d2de121f1a6fe0b7a105986502a7955c
+-->
+<hr>
+<p> Eventually, all things merge into one, and a river runs through it.</p>
